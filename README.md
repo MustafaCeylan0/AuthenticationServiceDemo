@@ -38,8 +38,8 @@ Navigate to src/main/resources/ and update the application.properties file with 
 spring.datasource.url=jdbc:postgresql://localhost:5432/auth_service_db
 spring.datasource.username=[your-username]
 spring.datasource.password=[your-password]
-Replace [your-username] and [your-password] with your PostgreSQL credentials.
 ```
+Replace [your-username] and [your-password] with your PostgreSQL credentials.
 
 ### Step 4: Build the Project
 
